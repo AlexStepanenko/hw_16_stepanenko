@@ -1,0 +1,6 @@
+INFO:root:[*] Execution time of max_year_db is: 0.003170013427734375 sec.
+INFO:root:[*] Execution time of max_year_df is: 0.00014495849609375 sec.
+INFO:root:[*] Execution time of max_value_db is: 0.002447843551635742 sec.
+INFO:root:[*] Execution time of max_value_df is: 0.0018970966339111328 sec.
+INFO:root:[*] Execution time of mean_year_db is: 0.001708984375 sec.
+INFO:root:[*] Execution time of mean_year_df is: 0.00015020370483398438 sec.
